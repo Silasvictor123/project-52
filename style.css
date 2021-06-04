@@ -1,0 +1,65 @@
+.menu{
+             display: flex;
+             justify-content: space-between;
+             background-color: #000000;
+             font-family: monospace;
+             color: #ff0000;
+              font-size: 20px;
+             padding: 15px;
+             font-style: italic;
+              font-weight: 200;
+            
+
+}
+body{
+              margin: 0px;
+              background-color: #f7f2f2;
+}
+.grid{
+              justify-content: space-between;
+              display: flex;
+              flex-wrap: wrap;
+          
+              border: 5px solid black;
+              border-radius: 10px;
+              color: #ff0000;
+         
+              
+}
+a:link{
+              color:white;
+
+}
+a:visited{
+              color: purple;
+
+}
+.origami{
+              border-radius: 10px;
+              background-color: white;
+              padding: 30px;
+              margin: 25px;
+              width: 350px;
+              font-family: fantasy;
+        
+              font-size: 15px;
+              font-weight: 200;
+              color: #ff0000;
+}
+.origami:hover{
+              transform: scale(1.2);
+
+
+}
+
+.aboutme{
+font-size: 15px;
+              font-weight: 60;
+              color: #ff0000;
+}
+.bodyImage{
+             
+              font-size: 15px;
+              font-weight: 60; 
+              color: #ff0000;
+}
